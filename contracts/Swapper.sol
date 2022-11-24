@@ -16,7 +16,7 @@ contract Swapper {
 	constructor() {
 
 		owner = msg.sender;
-		CToken = new Token("SwapperTokenC", "STC", address(this));
+		CToken = new Token("STC", "SwapperTokenC", address(this));
 
 	}
 

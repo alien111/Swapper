@@ -1,5 +1,4 @@
 # Swapper
-Polytrade Test Task. Swapper.
 
 # Addresses
 There are 4 contracts: A, B, C Tokens contracts and Swapper contract.
